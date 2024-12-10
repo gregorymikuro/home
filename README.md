@@ -6,11 +6,15 @@
 
 Passionate about leveraging data to drive insights and building intelligent systems. With extensive experience in machine learning, data analysis, cloud platforms, and software development, I enjoy solving complex problems and continuously learning new technologies. I’m always up for collaborating on cutting-edge AI and data science projects!
 
+
+
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <a href="http://www.github.com/gregorymikuro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregorymikuro&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
+
+
 
 ---
 
