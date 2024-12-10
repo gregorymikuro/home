@@ -1,9 +1,9 @@
-name: Update Wakatime Stats
+name: Update README with Wakatime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allow manual triggers
+    - cron: "0 0 * * 1" # Runs every Monday at midnight
+  workflow_dispatch: # Allows manual triggers
 
 jobs:
   update-readme:
@@ -12,14 +12,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: pip install requests
+
       - name: Update README with Wakatime Stats
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          pip install requests
-          python update_readme.py
+        run: python update_readme.py
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
