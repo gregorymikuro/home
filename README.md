@@ -17,11 +17,12 @@ Passionate about leveraging data to drive insights and building intelligent syst
 ### Coding Stats (02 Dec 2024 - 09 Dec 2024)
 
 ```plaintext
-Go               4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-Java             2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-Rust             2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-TypeScript       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-PHP              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Rust             4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Python           3 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.15 %
+JavaScript       2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   17.03 %
+TypeScript       2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Go               1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+SQL              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
 ---
