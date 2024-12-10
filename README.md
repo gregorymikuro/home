@@ -5,7 +5,21 @@
 
 Passionate about leveraging data to drive insights and building intelligent systems. With extensive experience in machine learning, data analysis, cloud platforms, and software development, I enjoy solving complex problems and continuously learning new technologies. I’m always up for collaborating on cutting-edge AI and data science projects!
 
-<a href="http://www.github.com/gregorymikuro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gregorymikuro&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+  <a href="http://www.github.com/gregorymikuro">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregorymikuro&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  
+  <pre style="background: #1c1917; color: #ffffff; padding: 15px; border-radius: 8px;">
+  ### Coding Stats (02 Dec 2024 - 09 Dec 2024)
+  
+  Go               4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+  Java             2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+  Rust             2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+  TypeScript       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+  PHP              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+  </pre>
+</div>
 
 ### Skills and Tools
 #### Languages:
