@@ -1,3 +1,4 @@
+
 ---
 
 # Hi there! I'm Gregory 👋
@@ -9,17 +10,21 @@ Passionate about leveraging data to drive insights and building intelligent syst
   <a href="http://www.github.com/gregorymikuro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregorymikuro&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
-  
-  <pre style="background: #1c1917; color: #ffffff; padding: 15px; border-radius: 8px;">
-  ### Coding Stats (02 Dec 2024 - 09 Dec 2024)
-  
-  Go               4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-  Java             2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-  Rust             2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-  TypeScript       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-  PHP              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-  </pre>
 </div>
+
+---
+
+### Coding Stats (02 Dec 2024 - 09 Dec 2024)
+
+```plaintext
+Go               4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Java             2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Rust             2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+TypeScript       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+PHP              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+```
+
+---
 
 ### Skills and Tools
 #### Languages:
@@ -46,6 +51,8 @@ Passionate about leveraging data to drive insights and building intelligent syst
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+---
 
 #### Front-End Frameworks:
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
