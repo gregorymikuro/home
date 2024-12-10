@@ -21,7 +21,6 @@ Rust             4 hrs 40 mins   ███████▒░░░░░░░�
 Python           3 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.15 %
 JavaScript       2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   17.03 %
 TypeScript       2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Go               1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   10.34 %
 SQL              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
@@ -35,6 +34,7 @@ SQL              1 hr 10 mins    █▓░░░░░░░░░░░░░�
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Data Science Libraries & Frameworks:
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
