@@ -18,13 +18,13 @@ Passionate about leveraging data to drive insights and building intelligent syst
 
 ---
 
-### Coding Stats (02 Dec 2024 - 09 Dec 2024)
+### Coding Stats (01 Dec 2024 - 31 Dec 2024)
 
 ```plaintext
-Rust             4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-Python           3 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.15 %
-JavaScript       2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   17.03 %
-TypeScript       2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Rust             32 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Python           16 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.15 %
+JavaScript       12 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   17.03 %
+TypeScript       10 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
 SQL              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
