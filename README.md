@@ -18,7 +18,7 @@ Passionate about leveraging data to drive insights and building intelligent syst
 
 ---
 
-### Coding Stats (01 Dec 2024 - 31 Dec 2024)
+### Coding Stats (01 Jan 2025 - 31 Jan 2025)
 
 ```plaintext
 Rust             32 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
